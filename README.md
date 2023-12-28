@@ -18,6 +18,7 @@ Find the slope m of the line of best fit.
 ### Step5
 <br>
 Obtain the straight line equation Y=mX+b and plot the scatterplot.
+
 ## Program:
 ```
 ```
