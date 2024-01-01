@@ -26,8 +26,8 @@ Obtain the straight line equation Y=mX+b and plot the scatterplot.
 ## Program:
 ```
 #program to implement multivariate linear regression 
-#developed by : veeraragavan v
-#register no:23004739
+#developed by : dharshan pt
+#register no:23005803
 import pandas as ps
 from sklearn import linear_model
 data=ps.read_csv("cars.csv")
@@ -41,6 +41,7 @@ predict=regr.predict([[3300,1300]])
 print('Predicted CO2 for for the corresponding weight and volume',predict)
 ```
 ## Output:
-![Screenshot 2023-12-31 124625](https://github.com/veerargavanv27/Multivariate-Linear-Regression/assets/138955645/0443b3d2-f227-4073-9052-6fa4337f3c91)
+![image](https://github.com/etjabajasphin/Multivariate-Linear-Regression/assets/138849376/d1695aad-2bdb-43dd-b813-7e5096e5c429)
+
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
